@@ -5,7 +5,9 @@
 
 - <b>Python Projects</b>
   - asd
-
+    
+- <b>Certification</b>
+  - asd
 
 
 <h2> 🤳 Connect with me:</h2>
